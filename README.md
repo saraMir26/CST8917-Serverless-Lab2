@@ -81,8 +81,7 @@ This lab successfully demonstrated the use of Azure Durable Functions and the Fa
 
 ## Demo Video
 
-
-<p style="font-size:8px; color:gray;">Click the thumbnail to watch the demo.</p>      
+<sub>Click the thumbnail to watch the demo.</sub>
 
 [![Watch the video](https://img.youtube.com/vi/Hx7HmIcT0Mw/hqdefault.jpg)](https://www.youtube.com/watch?v=Hx7HmIcT0Mw) 
 
